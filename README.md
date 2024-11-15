@@ -48,7 +48,7 @@ Viewport Resizer:
 ![image](https://github.com/user-attachments/assets/f67f72a5-f9a2-437c-ade9-019ec91352fa)
 
 # I created landing page
-[landing page](https://appledesign.my.canva.site/)
+[Landingpage](https://appledesign.my.canva.site/)
 
 
 
